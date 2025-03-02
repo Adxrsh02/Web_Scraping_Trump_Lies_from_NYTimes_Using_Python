@@ -1,8 +1,11 @@
 Web Scraping Trump Lies from NYTimes Using Python
+
 Project Overview
+
 In this project, we perform web scraping using Python to extract meaningful information from a webpage. Specifically, we extract details from the New York Times "Trump’s Lies" article, including:
 
 Date of the lie
+
 Lie statement made by Trump
 Explanation of why it's false
 Source URL (if available)
